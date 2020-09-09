@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.tab{width:500px;display:flex}.tab__button{width:150px;height:50px;border:1px solid #fafafc;border-radius:10px;transition-duration:.5s;cursor:pointer}.tab__button:focus,.tab__button:hover{background-color:#a4c6dd}.tab__button:focus{outline:none}.tab__item{cursor:pointer}.divide{height:10px;width:10px;color:grey}.hidden{display:none}
+/*# sourceMappingURL=main.74806a31.chunk.css.map */
